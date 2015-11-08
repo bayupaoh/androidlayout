@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Workshop Layout</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_linear_layout">Tampil Linear Layout</string>
+    <string name="button_relative_layout">Tampil Relative Layout</string>
+    <string name="button_absolute_layout">Tampil Absolute Layout</string>
+    <string name="button_frame_layout">Tampil Frame Layout</string>
+    <string name="title_activity_linear">Linear Activity</string>
+    <string name="body_linear_horizontal">Contoh dari linear layout orientation horizontal</string>
+    <string name="body_linear_vertical">Contoh dari linear layout orientation vertical</string>
+    <string name="title_activity_relative_layout">Relative Layout</string>
+    <string name="body_relative">Contoh dari relative layout</string>
+    <string name="title_activity_content_absolute">content_absolute</string>
+
+</resources>
